@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Loan Bot 
 
 You can use the [editor on GitHub](https://github.com/Byte7/Loan-Bot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
