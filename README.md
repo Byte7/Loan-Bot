@@ -4,9 +4,10 @@ You can use the [editor on GitHub](https://github.com/Byte7/Loan-Bot/edit/master
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Flows used for creating the bot
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sign-up for a free Flow XO account.Then click on these links to import them automatically for your bot.
+<script class="fxo-embed-script" src="https://flowxo.com/scripts/embed.js" data-src="https://flowxo.com/share/25ya2xyb/embed"></script>
 
 ```markdown
 Syntax highlighted code block
