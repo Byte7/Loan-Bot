@@ -4,8 +4,8 @@ The bot can calculate the amount of money you can borrow based on your monthly r
 
 ## Current Bot values
 The bot has the following values set for calculation.
-- Rate of Interest -> 10.0 %
-- Timeframe for return -> 12 to 84 months
+- Rate of Interest : 10.0 %
+- Timeframe for return : 12 to 84 months
 
 ## Flows used for creating the bot
 
@@ -16,4 +16,4 @@ Sign-up for a free Flow XO account.Then click on these links to import them auto
 
 ## Check Out the Bot on the Right Corner 👉🏻 
 Make sure you calculate your finance sheet correctly by having a chat with Loan Bot. 👨🏻‍💻 
-<script src="https://widget.flowxo.com/embed.js" data-fxo-widget="eyJ0aGVtZSI6IiNlNjJlYjgiLCJ3ZWIiOnsiYm90SWQiOiI1OWQ3ZGE1ODVkM2Y0ODAwMTEwNmZmM2IiLCJ0aGVtZSI6IiNkZTNjYjYifSwid2VsY29tZVRleHQiOiJIZXkgdGhlcmUgZmVsbGEgISJ9" async defer></script>
+<script src="https://widget.flowxo.com/embed.js" data-fxo-widget="eyJ0aGVtZSI6IiNkZTNjYjYiLCJ3ZWIiOnsiYm90SWQiOiI1OWQ3ZGE1ODVkM2Y0ODAwMTEwNmZmM2IiLCJ0aGVtZSI6IiNkZTNjYjYiLCJsYWJlbCI6Ik1lc3NhZ2UgTWUifSwid2VsY29tZVRleHQiOiJIZXkgdGhlcmUgZmVsbGEgISJ9" async defer></script>
