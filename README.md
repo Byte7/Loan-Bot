@@ -1,5 +1,5 @@
 # Loan Bot 
-A bot that helps you ease out all the calculations reagarding borrowing of money. 
+A bot that helps you ease out all the calculations regarding borrowing of money. 🤑🤑🤑
 The bot can calculate the amount of money you can borrow based on your monthly returns amount. Also, given an amount you want to borrow, it can calculate the amount you would have to pay each month as returns.
 
 ## Current Bot values
